@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Zulama</h1>
-<h3 align="center">| CS Undergraduate | Aspiring Game Dev | Cybersec Enthuse |</h3>
+<h3 align="center">| CS Undergraduate | Aspiring Game Dev | Guitarist |</h3>
 
 - 🌱 I’m currently learning **C#**
 

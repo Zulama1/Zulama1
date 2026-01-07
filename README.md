@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Zulama</h1>
-<h3 align="center">| CS Undergraduate | Aspiring Game Dev | Guitarist |</h3>
-
-- 🌱 I like learning random things randomly
+<h3 align="center">| CS Undergraduate |</h3>
 
 - 👨‍💻 All of my projects are available at [https://github.com/Zulama1](https://github.com/Zulama1)
 

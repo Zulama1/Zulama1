@@ -19,17 +19,11 @@
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![Audacity](https://img.shields.io/badge/Audacity-0000CC?style=for-the-badge&logo=audacity&logoColor=white)
 
-## 🛠 Socials
-<img width="189" alt="image" src="https://github.com/Zulama1/Zulama1/assets/90068883/236c00a3-80fd-4e48-8b73-dd2bbda9c0f4">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/zulama_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="zulama_" height="30" width="40" /></a>
 </p>
-
-### 📈 Profile stats
-#### Counter
-<img src="https://profile-counter.glitch.me/{Zulama1}/count.svg" alt="Zulama1 :: Visitor's Count" />  
 
 ## Cards 
 
